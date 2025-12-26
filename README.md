@@ -29,8 +29,7 @@ Version Control: Git & GitHub
 
 Clone the repository:
 
-git clone https://github.com/<username>/SmartNet.git
-
+https://github.com/DevFuel01/SmartNet
 
 Import the database:
 
